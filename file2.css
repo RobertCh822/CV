@@ -103,10 +103,9 @@ p{
     margin-left: 10px;
 }
 .links{
-    display: flex;
-    justify-content: right;
-    align-items: center;
-    flex-direction: row;
+    font-size:50px;
+    display:flex;
+    justify-content:space-between;
 }
 .bio h1{
     margin-bottom: 10px;
@@ -147,9 +146,6 @@ p{
 .phone span{
     font-size: 30px;
 }
-.links{
-    font-size:60px;
-}
 .fa-linkedin{
     padding-left:30px;
 }
@@ -168,4 +164,7 @@ p{
     text-align: center;
     padding:10px;
     border-radius: 15px;
+}
+.fa-linkedin{
+    padding:0 25px 0 25px
 }
